@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Sujit Prajapati
 
 ### 💻 Aspiring Full Stack Developer | Computer Science Student
@@ -16,11 +17,11 @@ I'm a Computer Science student from Mumbai, India, passionate about software dev
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sujit-prajapati-57793a424/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sujit-prajapati-57793a424/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sp8590128@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -30,33 +31,33 @@ I'm a Computer Science student from Mumbai, India, passionate about software dev
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 📊 Python Libraries
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -67,51 +68,60 @@ I'm a Computer Science student from Mumbai, India, passionate about software dev
 
 **AI-Powered Shop, Udhar & Payment Management System**
 
-SmartKhataAI is a digital shop management solution designed to help small retailers manage customers, credit transactions, inventory, and payments efficiently.
+A digital shop management solution designed to help small retailers manage customers, credit transactions, inventory, and payments.
 
 **Key Features:**
 - 👥 Customer registration and management
-- 💳 Customer Udhar (credit) and credit limit management
+- 💳 Udhar and customer credit limit management
 - 📦 Inventory and stock management
 - 💰 Payment and transaction tracking
 - 📊 Dashboard with business insights
 - 🤖 AI-powered business insights
 
-**Technology Stack:**
-`MongoDB` `Express.js` `Angular` `Node.js`
-
----
+**Technology Stack:** MongoDB · Express.js · Angular · Node.js
 
 ### 🏠 2. Hostel Management System
 
 **MEAN Stack-Based Hostel Management Application**
 
-A web-based application designed to simplify hostel administration and student management.
+A web application designed to simplify hostel administration and student management.
 
 **Key Features:**
 - 👨‍🎓 Student registration and management
 - 🏢 Room allocation and management
-- 💰 Hostel fees management
-- 📅 Student attendance tracking
+- 💰 Hostel fee management
+- 📅 Attendance tracking
 - 📩 Complaint management
 - 📝 Leave request management
 - 📢 Notice and announcement management
 - 👨‍💼 Admin dashboard
 
-**Technology Stack:**
-`MongoDB` `Express.js` `Angular` `Node.js`
+**Technology Stack:** MongoDB · Express.js · Angular · Node.js
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujit-prajapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=sujit-prajapati&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://ghstats.dev/api/card?username=sujit-prajapati&theme=tokyonight"
+       alt="GitHub Statistics" width="80%" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-prajapati&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://streak-stats.demolab.com?user=sujit-prajapati&theme=tokyonight&hide_border=true"
+       alt="GitHub Contribution Streak" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujit-prajapati&theme=tokyonight"
+       alt="GitHub Profile Summary" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujit-prajapati&theme=tokyonight"
+       alt="Repository Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujit-prajapati&theme=tokyonight"
+       alt="GitHub Activity Statistics" width="49%" />
 </p>
 
 ---
@@ -135,5 +145,6 @@ A web-based application designed to simplify hostel administration and student m
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujit-prajapati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sujit-prajapati&label=Profile%20Views&color=0e75b6&style=flat"
+       alt="Profile Views" />
 </p>
